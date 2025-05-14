@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow" alt="status">
-  <img src="https://img.shields.io/badge/Projetos-1%20completo-blue" alt="projetos">
+  <img src="https://img.shields.io/badge/Projetos-3%20completo-blue" alt="projetos">
   <img src="https://img.shields.io/badge/HTML-CSS%20e%20JS-orange" alt="tecnologias">
   <img src="https://img.shields.io/badge/Atualiza%C3%A7%C3%A3o-Cont%C3%ADnua-brightgreen" alt="atualizacao">
 </p>
