@@ -1,0 +1,84 @@
+/* Estilos globais */
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f0f2f5;
+  padding: 20px;
+  margin: 0;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Container principal */
+.container {
+  background: white;
+  padding: 2rem;
+  max-width: 400px;
+  width: 100%;
+  margin: auto;
+  border-radius: 10px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Título principal */
+h1 {
+  color: #1a73e8;
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+
+/* Grupo do formulário */
+.form-group {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  margin-bottom: 1.5rem;
+}
+
+/* Estilo do label */
+label {
+  color: #5f6368;
+  font-size: 0.9rem;
+}
+
+/* Campo de input */
+input {
+  padding: 0.8rem;
+  border: 1px solid #dadce0;
+  border-radius: 4px;
+  font-size: 1rem;
+  transition: border-color 0.2s;
+}
+
+input:focus {
+  outline: none;
+  border-color: #1a73e8;
+  box-shadow: 0 0 0 2px rgba(26, 115, 232, 0.2);
+}
+
+/* Botão de atualizar */
+button {
+  background-color: #1a73e8;
+  color: white;
+  border: none;
+  padding: 0.8rem;
+  border-radius: 4px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+button:hover {
+  background-color: #1557b0;
+}
+
+/* Resultado */
+#resultado {
+  margin-top: 1.5rem;
+  padding: 1rem;
+  background-color: #f8f9fa;
+  border-radius: 4px;
+  color: #202124;
+  text-align: center;
+}

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Atualizar Nome</title>
+  
+  <link rel="stylesheet" href="./style7.css">
+</head>
+<body>
+
+  <div class="container">
+    <h1>Atualizar Nome</h1>
+    
+    <!-- form para atualizar nome -->
+    <div class="form-group">
+      <label for="novoNome">Digite o novo nome:</label>
+      <input 
+        type="text" 
+        id="novoNome" 
+        placeholder="Digite o novo nome" 
+        aria-label="Campo para novo nome"
+      />
+      <button 
+        onclick="atualizarNome()"
+        aria-label="Clique para atualizar o nome"
+      >
+        Atualizar
+      </button>
+    </div>
+
+    <!--   resultado -->
+    <p id="resultado" aria-live="polite">Nome atual: João</p>
+  </div>
+
+  <!-- script js carregado no final -->
+  <script src="./script7.js"></script>
+</body>
+</html>
