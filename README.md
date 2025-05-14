@@ -1,4 +1,4 @@
-<h1 align="center">📚 Repositório de Atividades Universitárias</h1>
+<h1 align="center">📚 Repositório de Atividades SENAC UC09</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow" alt="status">
