@@ -1,37 +1,37 @@
-# Sistema de Cadastro de Usuários
+<h1 align="center">📝 Sistema de Cadastro de Usuários</h1>
 
-Este é um projeto simples de cadastro de usuários desenvolvido como parte das atividades práticas de desenvolvimento web.
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Atualizado-brightgreen" alt="status">
+  <img src="https://img.shields.io/badge/Frontend-HTML%2FCSS%2FJS-blue" alt="tecnologias">
+  <img src="https://img.shields.io/badge/Layout-Responsivo-lightgrey" alt="layout">
+  <img src="https://img.shields.io/badge/Validação-Formulário-important" alt="validacao">
+</p>
 
-## Funcionalidades
+<p align="center">
+  Projeto simples de cadastro de usuários desenvolvido como parte das atividades práticas de desenvolvimento web.
+  <br>
+  Recentemente revisado com correções de erros e melhorias na estrutura do código.
+</p>
 
-- Cadastro de usuários com nome, e-mail e telefone
-- Lista de usuários cadastrados com visualização organizada
-- Interface minimalista e responsiva
-- Validação de campos obrigatórios
+---
 
-## Tecnologias Utilizadas
+## 🚀 Funcionalidades
 
-- HTML5
-- CSS3
-- JavaScript (Vanilla)
+- ✅ Cadastro de usuários com **nome**, **e-mail** e **telefone**
+- 📋 Exibição organizada da lista de usuários cadastrados
+- 📱 Interface **responsiva** e minimalista
+- 🔒 **Validação** de campos obrigatórios
 
-## Estrutura do Projeto
+## 🛠 Tecnologias Utilizadas
 
-- `index.html`: Estrutura da página e formulário de cadastro
-- `style.css`: Estilização e layout responsivo
-- `script.js`: Lógica de cadastro e manipulação da lista de usuários
+- 🌐 **HTML5**
+- 🎨 **CSS3**
+- ⚙️ **JavaScript (Vanilla)**
 
-## Como Usar
+## 📁 Estrutura do Projeto
 
-1. Abra o arquivo `index.html` em um navegador web
-2. Preencha o formulário com os dados do usuário
-3. Clique em "Salvar" para adicionar o usuário à lista
-4. Os usuários cadastrados aparecerão em uma lista abaixo do formulário
-
-## Aprendizados Aplicados
-
-- Manipulação do DOM
-- Eventos em JavaScript
-- Estilização CSS moderna
-- Validação de formulários
-- Boas práticas de UI/UX 
+```bash
+cadastro/
+├── index.html       # Estrutura da página e formulário
+├── style.css        # Estilo e layout responsivo
+└── script.js        # Lógica de cadastro e manipulação de DOM
