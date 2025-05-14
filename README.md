@@ -1,32 +1,44 @@
-# Repositório de Atividades Universitárias
+<h1 align="center">📚 Repositório de Atividades Universitárias</h1>
 
-Este repositório contém projetos e exercícios desenvolvidos durante meu curso universitário. Aqui você encontrará implementações práticas de diversos conceitos aprendidos em sala de aula.
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow" alt="status">
+  <img src="https://img.shields.io/badge/Projetos-1%20completo-blue" alt="projetos">
+  <img src="https://img.shields.io/badge/HTML-CSS%20e%20JS-orange" alt="tecnologias">
+  <img src="https://img.shields.io/badge/Atualiza%C3%A7%C3%A3o-Cont%C3%ADnua-brightgreen" alt="atualizacao">
+</p>
 
-## Projetos
+<p align="center">
+  Este repositório contém projetos e exercícios desenvolvidos durante meu curso universitário.<br>
+  Aqui você encontrará implementações práticas de diversos conceitos aprendidos em sala de aula.
+</p>
+
+---
+
+## 📁 Projetos
 
 ### 1. Sistema de Cadastro
-- Localização: `/cadastro`
-- Descrição: Aplicação web para cadastro e listagem de usuários
-- Tecnologias: HTML, CSS e JavaScript
-- Status: Completo
+- 📌 **Localização:** `/cadastro`
+- 🧾 **Descrição:** Aplicação web para cadastro e listagem de usuários
+- 🛠️ **Tecnologias:** HTML, CSS e JavaScript
+- ✅ **Status:** Completo
 
-## Organização
+## 🗂 Organização
 
 Cada pasta representa um projeto ou exercício específico, contendo seu próprio README com instruções detalhadas de uso e documentação.
 
-## Objetivos
+## 🎯 Objetivos
 
-- Documentar o progresso acadêmico
-- Praticar conceitos aprendidos em aula
-- Desenvolver habilidades de programação
-- Criar um portfólio de projetos universitários
+- 📚 Documentar o progresso acadêmico  
+- 👨‍💻 Praticar conceitos aprendidos em aula  
+- 🧠 Desenvolver habilidades de programação  
+- 🚀 Criar um portfólio de projetos universitários  
 
-## Como Navegar
+## 🧭 Como Navegar
 
-Cada projeto está em sua própria pasta com documentação específica. Para começar:
-1. Escolha um projeto
-2. Leia o README do projeto
-3. Siga as instruções de instalação/execução
+1. 📂 Escolha um projeto
+2. 📄 Leia o README do projeto
+3. ⚙️ Siga as instruções de instalação/execução
 
 ---
-*Este repositório está em constante atualização conforme novos projetos são desenvolvidos.* 
+
+<p align="center"><em>🛠️ Este repositório está em constante atualização conforme novos projetos são desenvolvidos.</em></p>
