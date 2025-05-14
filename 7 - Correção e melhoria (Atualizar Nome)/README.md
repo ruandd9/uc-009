@@ -1,74 +1,49 @@
-# Exercício: Atualização de Nome
+<h1 align="center">🔄 Exercício: Atualização de Nome</h1>
 
-Este é um exercício prático de desenvolvimento web que demonstra a manipulação do DOM e interação com usuário através de JavaScript.
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Concluído-brightgreen" alt="status">
+  <img src="https://img.shields.io/badge/HTML-CSS%20e%20JS-blue" alt="tecnologias">
+  <img src="https://img.shields.io/badge/Layout-Responsivo-lightgrey" alt="layout">
+  <img src="https://img.shields.io/badge/Intera%C3%A7%C3%A3o%20DOM-JavaScript-important" alt="dom">
+</p>
+
+<p align="center">
+  Exercício prático de desenvolvimento web que demonstra a manipulação do DOM e interação com o usuário usando JavaScript.
+</p>
+
+---
 
 ## 📝 Descrição
 
-O projeto consiste em uma aplicação web simples que permite ao usuário:
-- Digitar um novo nome em um campo de texto
-- Atualizar o nome exibido na tela ao clicar no botão
-- Receber feedback visual da alteração
+Este projeto consiste em uma aplicação web simples que permite ao usuário:
+
+- ✍ Digitar um novo nome em um campo de texto  
+- 🔁 Atualizar o nome exibido na tela ao clicar no botão  
+- 👁️ Receber feedback visual da alteração  
+
+---
 
 ## 🚀 Funcionalidades
 
-- Campo de entrada para novo nome
-- Validação de campo vazio
-- Atualização dinâmica do nome
-- Feedback visual após atualização
-- Interface responsiva e moderna
+- 📥 Campo de entrada para novo nome  
+- ⚠️ Validação de campo vazio  
+- 🔄 Atualização dinâmica do nome na tela   
+- 📱 Interface moderna 
 
-## 🛠️ Tecnologias Utilizadas
+---
 
-- HTML5
-- CSS3
-- JavaScript (Vanilla)
+## 🛠 Tecnologias Utilizadas
+
+- 🌐 **HTML5**  
+- 🎨 **CSS3**  
+- ⚙️ **JavaScript (Vanilla)**
+
+---
 
 ## 📁 Estrutura do Projeto
 
-```
 7 - Correção e melhoria (Atualizar Nome)/
-├── index7.html    # Estrutura da página
-├── style7.css     # Estilos e layout
-├── script7.js     # Lógica de interação
-└── README.md      # Documentação
-```
-
-## 💻 Como Usar
-
-1. Abra o arquivo `index7.html` em um navegador web
-2. Digite um nome no campo de texto
-3. Clique no botão "Atualizar"
-4. O nome será atualizado na tela
-5. O campo de texto será limpo automaticamente
-
-## ✨ Melhorias Implementadas
-
-- Adição de comentários explicativos no código
-- Implementação de validação de dados
-- Melhoria na acessibilidade
-- Design moderno e responsivo
-- Feedback visual para interações do usuário
-
-## 🎯 Objetivos de Aprendizado
-
-- Manipulação do DOM com JavaScript
-- Validação de formulários
-- Estilização moderna com CSS
-- Boas práticas de código
-- Acessibilidade web
-
-## 📚 Conceitos Abordados
-
-- Seletores DOM
-- Eventos JavaScript
-- Flexbox CSS
-- Validação de dados
-- Feedback ao usuário
-- Responsividade
-
-## ⚡ Dicas de Desenvolvimento
-
-- Verifique os comentários no código para entender cada parte
-- Experimente modificar os estilos no CSS
-- Tente adicionar novas funcionalidades ao JavaScript
-- Teste a aplicação em diferentes dispositivos 
+├── index7.html     # Estrutura da página
+├── style7.css      # Estilização e layout
+├── script7.js      # Lógica e interação DOM
+└── README.md       # Documentação do projeto
